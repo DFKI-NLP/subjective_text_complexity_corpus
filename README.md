@@ -1,4 +1,4 @@
-# Subjective Text Complexity Corpus for German [Paper](https://aclanthology.org/2022.lrec-1.74/)
+# Subjective Text Complexity Corpus for German [[Paper](https://aclanthology.org/2022.lrec-1.74/)]
 
 A corpus consisting of German sentences, annotated with subjective complexity ratings by two target groups.
 
